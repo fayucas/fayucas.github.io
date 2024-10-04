@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fayucas.github.io/sitemap.html.gz
+Sitemap: https://fayucas.github.io/app/sitemap.html.gz
+Sitemap: https://fayucas.github.io/assets/sitemap.html.gz
+Sitemap: https://fayucas.github.io/css/sitemap.html.gz
+Sitemap: https://fayucas.github.io/data/sitemap.html.gz
+Sitemap: https://fayucas.github.io/includes/sitemap.html.gz
+Sitemap: https://fayucas.github.io/item/sitemap.html.gz
+Sitemap: https://fayucas.github.io/src/sitemap.html.gz
